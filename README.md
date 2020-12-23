@@ -16,6 +16,9 @@ Kelompok Kuning
 ## About The Application
 This is an client-side E-menu app, that is based on Kyan's Cafe. Users can order food on the app and it's connected to an online database(online API) so that the transactions will be recorded.
 
+## How to use
+Download the code in zip, open it on your android studio, wait for the configuration to finish, run the emulator(API 27 and below)(tested using Nexus S API 25).
+
 
 ## This App Contains 4 of the 7 features:
 1. Async Task and AsyncTask Loader = Used for getting data from database, connecting to the database, and also progress bar in the settings activity.
